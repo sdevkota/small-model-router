@@ -1,0 +1,30 @@
+{
+  "name": "@open-ai-civic/small-model-router",
+  "version": "1.0.0",
+  "description": "Route tasks to smaller, local, or private models when they are good enough. Many AI workflows overuse frontier models, increasing cost, latency, privacy risk, and vendor dependence.",
+  "license": "MIT",
+  "private": false,
+  "bin": {
+    "small-model-router": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/cli.js",
+    "test": "node test/smoke.js"
+  },
+  "keywords": [
+    "ai",
+    "agents",
+    "open-source",
+    "governance",
+    "safety",
+    "small-model-router"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/small-model-router.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/small-model-router/issues"
+  },
+  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/small-model-router/"
+}
