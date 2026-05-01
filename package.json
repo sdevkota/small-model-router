@@ -21,10 +21,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/small-model-router.git"
+    "url": "https://github.com/sdevkota/small-model-router.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/small-model-router/issues"
+    "url": "https://github.com/sdevkota/small-model-router/issues"
   },
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/small-model-router/"
+  "homepage": "https://sdevkota.github.io/small-model-router/"
 }
